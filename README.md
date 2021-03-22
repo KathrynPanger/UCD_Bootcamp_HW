@@ -13,10 +13,10 @@ This project produced summary statistics, vizualization, and content reorganizat
 
 ## Examples:
 
- ![Vizualization Preview](images/GoalOutcomes.PNG)
- ![Vizualization Preview](LaunchDateOutcomes.PNG)
- ![Vizualization Preview](SubcategoryStats.PNG)
- ![Vizualization Preview](PercentageFundedFormat.PNG)
+ ![Vizualization Preview](Images/GoalOutcomes.PNG)
+ ![Vizualization Preview](Images/LaunchDateOutcomes.PNG)
+ ![Vizualization Preview](Images/SubcategoryStats.PNG)
+ ![Vizualization Preview](Images/PercentageFundedFormat.PNG)
 
 
 
